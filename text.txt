@@ -6,6 +6,3 @@ last
 
 this is not last
 as well as this
-gggg
-gggg
---------------------
